@@ -86,14 +86,24 @@ Side panel of box need to be replaced by new one with hole for connector.
 
 ## 7. Final assembly
 
+### Visualization
+
 ![](doc/3d/all.png)
 
 ![](doc/3d/rpi-hat.png)
 
 ![](doc/3d/hat.png)
 
-<center><em>3D Model</em></center>
+### Rality
 
 ![](doc/rpi.jpg)
 
-<center><em>Reality</em></center>
+### Photos
+
+![](doc/photo/02.jpg)
+
+![](doc/photo/03.jpg)
+
+![](doc/photo/04.jpg)
+
+![](doc/photo/05.jpg)
